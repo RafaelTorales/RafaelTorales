@@ -15,7 +15,7 @@
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS">
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
     
-    <img align='right' height="150" width="150" src="https://github.com/RafaelTorales/RafaelTorales/blob/main/.github/workflows/octocat-1670508543475.png" alt="Octocat">
+    <img align='right' height="150" width="150" src="https://github.com/RafaelTorales/RafaelTorales/blob/main/octocat-1685368034316.png" alt="Octocat">
 </div>
 
 ##
