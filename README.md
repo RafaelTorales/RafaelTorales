@@ -12,10 +12,9 @@
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5">
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3">
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript">
-    <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS">
+    <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS">
     <img align='center' height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python">
-    
-    <img align='right' height="150" width="150" src="https://github.com/RafaelTorales/RafaelTorales/blob/main/octocat-1685368034316.png" alt="Octocat">
+    <img align='right' height="150" width="150" src="https://github.com/RafaelTorales/RafaelTorales/blob/7074af5568935c65f62dd82123d7e5e0455ab0ec/octocat-1685368034316.png" alt="Octocat">
 </div>
 
 ##
