@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Rafael Torales
 - 🔭 Estagiário na CERTI e apaixonado por desenvolvimento.
-- 🌱 Atualmente, estou focado em aprimorar minhas habilidades em JavaScript e NodeJS. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
+- 🌱 Atualmente, estou focado em aprimorar minhas habilidades em JavaScript, NodeJS e Angular. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer como desenvolvedor.
 
 <div>
     <a href="https://github.com/RafaelTorales">
